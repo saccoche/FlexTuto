@@ -1,0 +1,59 @@
+<employees>
+	<employee>
+		<firstName>Athena</firstName>
+		<lastName>Parker</lastName>
+		<id>aparker</id>
+		<title>Hardware Engineering Product Manager</title>
+		<email>aparker@xyzcompany.com</email>
+		<managerID>dtownson</managerID>
+		<department>Hardware Engineering</department>
+		<location>San Francisco</location>
+		<phone>674-655-4363</phone>
+		<directDial>34310</directDial>
+		<deskLocation>10-5</deskLocation>
+		<city>San Francisco</city>
+		<state>California</state>
+		<countryCode>US</countryCode>
+		<postalCode>94103</postalCode>
+		<hireDate>05/23/2005</hireDate>
+		<evaluation>9</evaluation>
+	</employee>
+    <employee>
+		<firstName>Saul</firstName>
+		<lastName>Tucker</lastName>
+		<id>stucker</id>
+		<title>Flex Engineer</title>
+		<email>stucker@xyzcompany.com</email>
+		<managerID>svis</managerID>
+		<department>Software Engineering</department>
+		<location>San Francisco</location>
+		<phone>455-634-4637</phone>
+		<directDial>35310</directDial>
+		<deskLocation>10-6</deskLocation>
+		<city>San Francisco</city>
+		<state>California</state>
+		<countryCode>US</countryCode>
+		<postalCode>94103</postalCode>
+		<hireDate>07/09/2005</hireDate>
+		<evaluation>10</evaluation>
+	</employee>
+	<employee>
+		<firstName>Samuel</firstName>
+		<lastName>Ang</lastName>
+		<id>sang</id>
+		<title>Vice President Creative Services</title>
+		<email>sang@xyzcompany.com</email>
+		<managerID>rdriefus</managerID>
+		<department>Corporate Team</department>
+		<location>Los Angeles</location>
+		<phone>999-255-1222</phone>
+		<directDial>34220</directDial>
+		<deskLocation>10-8</deskLocation>
+		<city>Los Angeles</city>
+		<state>California</state>
+		<countryCode>US</countryCode>
+		<postalCode>95110</postalCode>
+		<hireDate>02/05/2005</hireDate>
+		<evaluation>10</evaluation>
+	</employee>
+</employees>
