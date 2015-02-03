@@ -18,6 +18,7 @@
 		<postalCode>94103</postalCode>
 		<hireDate>05/23/2005</hireDate>
 		<evaluation>9</evaluation>
+		<salary>50000</salary>
 	</employee>
 	<employee>
 		<firstName>Saul</firstName>
@@ -37,6 +38,7 @@
 		<postalCode>94103</postalCode>
 		<hireDate>01/01/2000</hireDate>
 		<evaluation>8</evaluation>
+		<salary>50000</salary>
 	</employee>
 	<employee>
 		<firstName>Samuel</firstName>
@@ -56,6 +58,7 @@
 		<postalCode>95110</postalCode>
 		<hireDate>08/06/2001</hireDate>
 		<evaluation>8</evaluation>
+		<salary>75000</salary>
 	</employee>
 	<employee>
 		<firstName>Dianna</firstName>
@@ -75,6 +78,7 @@
 		<postalCode>66101</postalCode>
 		<hireDate>03/16/2008</hireDate>
 		<evaluation>6</evaluation>
+		<salary>45000</salary>
 	</employee>
 	<employee>
 		<firstName>Eric</firstName>
@@ -94,6 +98,7 @@
 		<postalCode>95110</postalCode>
 		<hireDate>06/06/2004</hireDate>
 		<evaluation>6</evaluation>
+		<salary>80000</salary>
 	</employee>
 	<employee>
 		<firstName>Galen</firstName>
@@ -113,6 +118,7 @@
 		<postalCode>95110</postalCode>
 		<hireDate>01/01/2009</hireDate>
 		<evaluation>3</evaluation>
+		<salary>35000</salary>
 	</employee>
 	<employee>
 		<firstName>Tory</firstName>
@@ -132,6 +138,7 @@
 		<postalCode>94103</postalCode>
 		<hireDate>07/28/2003</hireDate>
 		<evaluation>10</evaluation>
+		<salary>50000</salary>
 	</employee>
 	<employee>
 		<firstName>Alyssa</firstName>
@@ -151,6 +158,7 @@
 		<postalCode>94103</postalCode>
 		<hireDate>05/16/2001</hireDate>
 		<evaluation>10</evaluation>
+		<salary>35000</salary>
 	</employee>
 	<employee>
 		<firstName>Leo</firstName>
@@ -170,6 +178,7 @@
 		<postalCode>94103</postalCode>
 		<hireDate>02/18/2004</hireDate>
 		<evaluation>7</evaluation>
+		<salary>55000</salary>
 	</employee>
 	<employee>
 		<firstName>Simon</firstName> 
@@ -189,6 +198,7 @@
 		<postalCode>94103</postalCode> 
 		<hireDate>10/15/2004</hireDate>
 		<evaluation>8</evaluation>
+		<salary>60000</salary>
   </employee>
   	<employee>
 		<firstName>Ellen</firstName>
@@ -208,6 +218,7 @@
 		<postalCode>66101</postalCode>
 		<hireDate>11/15/2005</hireDate>
 		<evaluation>9</evaluation>
+		<salary>50000</salary>
 	</employee>
 	<employee>
 		<firstName>Josh</firstName>
@@ -227,5 +238,6 @@
 		<postalCode>95110</postalCode>
 		<hireDate>01/15/2006</hireDate>
 		<evaluation>6</evaluation>
+		<salary>32000</salary>
 	</employee>
 </employees>
